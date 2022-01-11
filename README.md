@@ -1,5 +1,4 @@
 # Audio Encryption using RSA algorithm 
-J component
 
 ### Contact with the Contributors:
 > Moudipa Jana - https://github.com/Moudipa01
