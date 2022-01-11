@@ -1,4 +1,4 @@
-# BCI3005
+# Audio Encryption using RSA algorithm 
 J component
 
 ### Contact with the Contributors:
